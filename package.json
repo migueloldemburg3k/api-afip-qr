@@ -1,0 +1,17 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "3ksys",
+  "license": "MIT",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "express": "^4.17.1",
+    "image-data-uri": "^2.0.1",
+    "qrcode": "^1.4.4"
+  }
+}
